@@ -1,6 +1,6 @@
 # 🦾 Prótese Biónica Transradial
 
-Projeto académico desenvolvido no âmbito da unidade curricular **Desenho e Técnicas de Modelação 3D**, no **Instituto Superior de Engenharia de Coimbra (ISEC)**.  
+Projeto académico desenvolvido no âmbito da unidade curricular **Desenho e Técnicas de Modelação 3D**.  
 O trabalho consiste na criação e modelação de uma **prótese biónica transradial**, concebida em **SolidWorks**, com foco na funcionalidade, ergonomia e integração tecnológica.
 
 ---
@@ -60,16 +60,6 @@ Capacidade de ser controlada por sinais musculares (EMG);
 Modularidade para substituição e melhoria de componentes.
 
 Este projeto alia engenharia mecânica, eletrónica e biomédica, com potencial para aplicações futuras em dispositivos médicos inteligentes e próteses personalizadas.
-
-## 🧾 Referências Bibliográficas
-
-Luiz, 2020. Como funcionam as próteses biónicas: conheça as próteses do futuro.
-
-OMS, 2021. Dados sobre amputações e reabilitação física.
-
-KenHub, 2022. Anatomia do braço e da mão.
-
-Bionicenter, 2021. O que é amputação de braço? Causas e tipos de próteses.
 
 ## 👩‍🔬 Autores
 Andreia Domingues Fernandes	- andreia2000fernandes@gmail.com
